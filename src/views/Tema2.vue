@@ -15,19 +15,19 @@
           figure.d-flex.justify-content-center
             img(src="@/assets/curso/tema2/1.svg" data-aos="zoom-in-up" style="max-width: 300px;height:250px;")
           .p-4.mt-4.text-center(style="background-color:#BFEFDD;border-bottom-left-radius:15px;border-bottom-right-radius:15px;")
-            p.mb-0(data-aos="fade-up") #[strong ELEMENTO]
+            p.mb-0(data-aos="fade-up") #[strong Elemento]
       .col-lg.mb-4.mb-lg-0
         .h-100(style="background: rgb(255,250,237);background: linear-gradient(0deg, rgba(255,250,237,1) 80%, rgba(255,255,255,0) 80%);")
           figure.d-flex.justify-content-center
             img(src="@/assets/curso/tema2/2.svg" data-aos="zoom-in-up" style="max-width: 300px;height:250px;")
           .p-4.mt-4.text-center(style="background-color:#BFEFDD;border-bottom-left-radius:15px;border-bottom-right-radius:15px;")
-            p.mb-0(data-aos="fade-up") #[strong CONDICIÓN]
+            p.mb-0(data-aos="fade-up") #[strong Condición]
       .col-lg.mb-4.mb-lg-0
         .h-100(style="background: rgb(255,250,237);background: linear-gradient(0deg, rgba(255,250,237,1) 80%, rgba(255,255,255,0) 80%);")
           figure.d-flex.justify-content-center
             img(src="@/assets/curso/tema2/3.svg" data-aos="zoom-in-up" style="max-width: 300px;height:250px;")
           .p-4.mt-4.text-center(style="background-color:#BFEFDD;border-bottom-left-radius:15px;border-bottom-right-radius:15px;")
-            p.mb-0(data-aos="fade-up") #[strong ACTO]
+            p.mb-0(data-aos="fade-up") #[strong Acto]
     
     br
     br
@@ -108,7 +108,7 @@
             | #[strong ISO 9612:2009] Evaluación de ruido ocupacional.
           li.mb-2(data-aos="fade-up")
             i.fa-li.fas.fa-check-circle(style="color:#465FC4;")
-            | #[strong ISO 11904-1 2002 u 11904-2 2005] Casos especiales como call centers.
+            | #[strong ISO 11904-1 2002 u 11904-2 2005] Casos especiales como #[em call centers].
           li.mb-2(data-aos="fade-up")
             i.fa-li.fas.fa-check-circle(style="color:#465FC4;")
             | Resolución 2400 de 1979, Título 3 Capítulo 4.
@@ -117,7 +117,7 @@
             | Resolución 0627 de 2006.
           li(data-aos="fade-up")
             i.fa-li.fas.fa-check-circle(style="color:#465FC4;")
-            | Resolución 2844 de 2007: Límite permisible para ruido continuo.
+            | Resolución 2844 de 2007: límite permisible para ruido continuo.
           li.mb-3(data-aos="fade-up")
             .tabla-a.color-acento-botones.mt-3
               table
@@ -144,7 +144,7 @@
                     td.text-center(style="border-color:#F9931F;")
           li(data-aos="fade-up")
             i.fa-li.fas.fa-check-circle(style="color:#465FC4;")
-            | Resolución 8321 de 1983: Límite permisible para ruido de impacto.
+            | Resolución 8321 de 1983: límite permisible para ruido de impacto.
           li.mb-3(data-aos="fade-up")
             .tabla-a.color-acento-botones.mt-3
               table
@@ -155,7 +155,7 @@
                     td.text-center(style="border-color:#F9931F;") 130
                     td.text-center(style="border-color:#F9931F;") 120
                   tr
-                    td.text-center(style="border-color:#F9931F;background-color:#FFF4D3;") #[strong No DE IMPACTOS #[br] DIA]
+                    td.text-center(style="border-color:#F9931F;background-color:#FFF4D3;") #[strong No DE IMPACTOS #[br] DÍA]
                     td.text-center(style="border-color:#F9931F;") 100
                     td.text-center(style="border-color:#F9931F;") 1000
                     td.text-center(style="border-color:#F9931F;") 10000
@@ -349,7 +349,7 @@
               ul.lista-ul.mt-3
                 li(data-aos="fade-up")
                   i.fas.fa-check-circle(style="color:#465FC4;")
-                  | Mano – Brazo: herramientas que generan vibraciones y son percibidas por esta parte del cuerpo, como taladros, pulidoras, brilladoras, sierras. 
+                  | Mano – brazo: herramientas que generan vibraciones y son percibidas por esta parte del cuerpo, como taladros, pulidoras, brilladoras, sierras. 
                 li(data-aos="fade-up")
                   i.fas.fa-check-circle(style="color:#465FC4;")
                   | Trastornos vasculares, de huesos y articulaciones, neurológicos, musculares, de síndrome de dedo blanco o síndrome de Raynaud. 
@@ -569,7 +569,7 @@
             ul.lista-ul.mt-3
               li(data-aos="fade-up")
                 i.fas.fa-check-circle(style="color:#465FC4;")
-                |  Golpe de calor e insolación, síncope por calor, calambre por calor, Urticaria por calor, pérdida de electrolitos. 
+                |  Golpe de calor e insolación, síncope por calor, calambre por calor, urticaria por calor, pérdida de electrolitos. 
           .col-lg-5
             figure
               img(src="@/assets/curso/tema2/47.png")
@@ -640,22 +640,22 @@
         .h-100.text-center.p-4.cont_tarjeta_oreja(style="background-color:#DADFF3;border-radius:15px;")
           figure.d-flex.align-items-center.justify-content-center
             img(src="@/assets/curso/tema2/50.svg" style="max-width:90px;" data-aos="zoom-in-up")
-          p.mt-4(data-aos="fade-up") #[strong Síndrome de perforación de la membrana timpánica]
+          p.mt-4(data-aos="fade-up") #[strong Otitis media no supurativa.]
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.text-center.p-4.cont_tarjeta_oreja(style="background-color:#DADFF3;border-radius:15px;")
           figure.d-flex.align-items-center.justify-content-center
             img(src="@/assets/curso/tema2/51.svg" style="max-width:90px;" data-aos="zoom-in-up")
-          p.mt-4(data-aos="fade-up") #[strong Síndrome de perforación de la membrana timpánica]
+          p.mt-4(data-aos="fade-up") #[strong Síndrome de perforación de la membrana timpánica.]
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.text-center.p-4.cont_tarjeta_oreja(style="background-color:#DADFF3;border-radius:15px;")
           figure.d-flex.align-items-center.justify-content-center
             img(src="@/assets/curso/tema2/52.svg" style="max-width:90px;" data-aos="zoom-in-up")
-          p.mt-4(data-aos="fade-up") #[strong Laberintitis, otalgia y secreción auditiva]
+          p.mt-4(data-aos="fade-up") #[strong Laberintitis, otalgia y secreción auditiva.]
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.text-center.p-4.cont_tarjeta_oreja(style="background-color:#DADFF3;border-radius:15px;")
           figure.d-flex.align-items-center.justify-content-center
             img(src="@/assets/curso/tema2/53.svg" style="max-width:90px;" data-aos="zoom-in-up")
-          p.mt-4(data-aos="fade-up") #[strong Otros trastornos específicos del oído]
+          p.mt-4(data-aos="fade-up") #[strong Otros trastornos específicos del oído.]
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.text-center.p-4.cont_tarjeta_oreja(style="background-color:#DADFF3;border-radius:15px;")
           figure.d-flex.align-items-center.justify-content-center

@@ -133,7 +133,7 @@
                 img(src='@/assets/curso/tema1/15.svg' style="z-index:2;max-width:60px;")
               .tarjeta(style="background-color:#FFF5C5;")
                 .p-3
-                  p.mb-0(data-aos="fade-up") #[strong Perdida en la infraestructura]
+                  p.mb-0(data-aos="fade-up") #[strong Pérdida en la infraestructura]
           .col-lg
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img

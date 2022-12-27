@@ -202,7 +202,7 @@ export default {
       referencia:
         'World Health Organization [WHO]. (2013). La higiene ocupacional en América Latina: Una guía para su desarrollo',
       link:
-        'https://www.who.int/occupational_health/publications/amrhigiene/es/. https://www.who.int/occupational_health/publications/amrhigiene/es/',
+        'https://www.who.int/occupational_health/publications/amrhigiene/es/',
     },
     {
       referencia:
@@ -275,20 +275,19 @@ export default {
   complementario: [
     {
       tema: 'Peligros físicos',
-      referencia: 'Muñoz, F. (2017). Riesgos físicos napo [Video]. YouTube.',
+      referencia: 'Muñoz, F. (2017). Riesgos físicos napo.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=mkLph-rYPlk&t=100',
     },
     {
       tema: 'Peligros eléctricos',
-      referencia: 'SG-SST. (2021). Napo - Riesgo Eléctrico [Video]. YouTube.',
+      referencia: 'SG-SST. (2021). Napo - Riesgo Eléctrico.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=20yyyBAq1Q8&t=86s ',
     },
     {
       tema: 'Condiciones inseguras',
-      referencia:
-        'Becerra, J. (2018). Napo Condiciones de Seguridad [Video]. YouTube.',
+      referencia: 'Becerra, J. (2018). Napo Condiciones de Seguridad.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=sQOlUn4c4rE&t=42s',
     },
@@ -391,26 +390,38 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Ángela María Maldonado Jaime ',
+        cargo: 'Validación ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ernesto Navarro Jaimes ',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: '',
-        cargo: 'Producción audiovisual',
+        nombre: 'Estefani Daniela Gallo Cortés ',
+        cargo: 'Ilustración',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Gilberto Junior Rodríguez Rodríguez',
         cargo: 'Validación audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo López ',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Pedro Nel Calao Zabala',
+        cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
@@ -426,7 +437,7 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: '',
+        nombre: 'Maria Eugenia Mejia Lopez',
         cargo: 'Validación de contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
