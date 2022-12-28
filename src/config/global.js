@@ -179,7 +179,7 @@ export default {
       referencia:
         'Resolución 90708 de 2013. [Ministerio de Minas y Energía]. Por la cual se expide el Reglamento Técnico de Instalaciones Eléctricas –RETIE. Agosto 30 de 2013.',
       link:
-        'http://www.einceltda.com/docs/ANEXO%20RES%2090708%20DEL%2030%20DE%20AGOSTO%20%202013%20RETIE.pdf',
+        'https://www.minenergia.gov.co/documents/3822/22726-Resolucion_9_0708_de_agosto_30_de_2013_expedicion_RETIE_2013.pdf',
     },
     {
       referencia:
@@ -202,7 +202,7 @@ export default {
       referencia:
         'World Health Organization [WHO]. (2013). La higiene ocupacional en América Latina: Una guía para su desarrollo',
       link:
-        'https://www.who.int/occupational_health/publications/amrhigiene/es/',
+        'http://ahra.org.ar/wp-content/uploads/2018/02/Higiene-en-America-Latina1.pdf',
     },
     {
       referencia:
